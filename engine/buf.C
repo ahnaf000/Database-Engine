@@ -2,20 +2,14 @@
 //                   
 // Main Class File:  testbuf.c
 // File:             buf.c
-// Semester:         CS564 Fall 2022
-//
-// Lecturer's Name:  Paris Koutris
 //
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Student 1: Zachary Osborn
-// Student ID: 9083623414
 // 
 // Student 2: Nhut Ly
-// Student ID: 9080834758
 //
 // Student 3: Ahnaf Abrar Kabir
-// Student ID: 9081504244
 // 
 //
 //////////////////////////// 80 columns wide ///////////////////////////////////
